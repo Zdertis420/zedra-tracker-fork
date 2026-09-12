@@ -9,6 +9,7 @@
 | [`../README.md`](../README.md) | назначение, требования к окружению, команды запуска |
 | [`architecture.md`](architecture.md) | архитектура SPA, схема каталогов, модель данных |
 | [`user-guide.md`](user-guide.md) | руководство пользователя |
+| [`ui-components.md`](ui-components.md) | справочник UI-компонентов shadcn-vue: состав, пропы, варианты, соглашения |
 | [`limitations.md`](limitations.md) | известные ограничения эксплуатации |
 
 ---
