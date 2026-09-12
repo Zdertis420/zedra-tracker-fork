@@ -46,3 +46,12 @@ bun run generate
 | Vue composables | хранение состояния приложения |
 | localStorage | постоянное хранение данных |
 | Vite | сборка (в составе Nuxt 4) |
+
+## Документация
+
+| Документ | Содержание |
+| --- | --- |
+| [docs/user-guide.md](docs/user-guide.md) | руководство пользователя |
+| [docs/architecture.md](docs/architecture.md) | архитектура приложения, структура каталогов, модель данных |
+| [docs/developer-guide.md](docs/developer-guide.md) | техническая документация: конфигурация, API composables, контракты компонентов, валидация |
+| [docs/limitations.md](docs/limitations.md) | известные ограничения и особенности эксплуатации |
